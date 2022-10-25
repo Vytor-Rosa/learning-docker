@@ -14,3 +14,4 @@ COPY ./ .
 RUN npm install
 #executa o comando para iniciar a aplicação
 ENTRYPOINT npm start
+#fim
